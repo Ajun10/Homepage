@@ -13,4 +13,4 @@ To change the background, download a .jpg picture, and call it background.jpg.
 
 To edit the font, grab a .woff font, and rename it font.woff. If you like a .tff font, download it, go to https://andrewsun.com/tools/woffer-woff-font-converter/, click **Choose Files...**, choose your .tff file, and download the .woff file when the converter is done, rename that .woff file to font.woff, move it into the customHomepage folder, and **BOOM!!** Your custom font is now on your homepage!
 
-And there's your custom homepage! I might add more features to it, so stay tuned!
+And there's your custom homepage! I might add more features to it, so stay tuned! If you wanna see an example, go here: https://ajun10.github.io/customHomepage/.
